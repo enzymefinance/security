@@ -45,7 +45,7 @@ Enzyme has a Bug Bounty program to encourage security researchers to spend time 
 ## Rewards
 | Severity                | Bounty             |
 | ---------------------- | ----------------------- |
-Critical | Up to 250,000 USDC
+Critical | Up to $250,000 USDC
 High | Up to $25,000 USDC
 Medium | Up to $10,000 USDC
 Low | Up to $1,000 USDC
