@@ -2,7 +2,7 @@
 
 This repo contains security related information for Enzyme Finance:
 
-- security policy
-- the security contacts
-- audit reports
-- disclosure reports
+- [security policy](SECURITY.md)
+- [security contacts](SECURITY.md#contacts)
+- audit reports (TODO)
+- [disclosure reports](./disclosures)
