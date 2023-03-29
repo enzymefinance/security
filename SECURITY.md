@@ -20,13 +20,15 @@ In parallel, you may also reach out to key security members on the council and e
 
 | Contact                                      | Keybase    |
 | -------------------------------------------- | ---------- |
-| Mona El Isa (Core Team & Council).           | @elisafly  |
-| Sean Casey (Lead dev team & Council )        | @dnjc      |
-| Sebastian Siemssen (Lead dev team & Council) | @fubhy     |
-| Ivan Herger (Lead dev team & Council)        | @yogivan   |
-| Lev Livnev (Technical Council)               | @livnev    |
+| Mona El Isa (Core Team & Council)            | @elisafly  |
+| Sean Casey (Lead dev & Council )             | @dnjc      |
+| Sebastian Siemssen (Lead dev & Council)      | @fubhy     |
+| Ivan Herger (Lead dev  & Council)            | @yogivan   |
+| Paul Salis (Technical Council)               | @paulsalis |
+| Matthias Egli (Technical Council)            | @matthiasegli |
+| Dominic (Technical Council)                  | @dominic91 |
 | Nic Munoz McDonald (Technical Council)       | @niconline |
-| Martin Lundfall (Technical Council)          | @mr_chico  |
+| Theophille (Technical Council)               | @theophile |
 
 Once a secure line has been established, a member of the Council will instruct you on the next steps and provide a secure channel for you to disclose details to a small group of people.
 
@@ -48,10 +50,10 @@ Enzyme has a Bug Bounty program to encourage security researchers to spend time 
 
 | Severity | Bounty              |
 | -------- | ------------------- |
-| Critical | Up to $250,000 USDC |
-| High     | Up to $25,000 USDC  |
-| Medium   | Up to $10,000 USDC  |
-| Low      | Up to $1,000 USDC   |
+| Critical | Up to $400,000 USDC |
+| High     | Up to $80,000 USDC  |
+| Medium   | Up to $20,000 USDC  |
+| Low      | Up to $2,000 USDC   |
 
 Actual payouts are determined by classifying the vulnerability based on its impact and likelihood to be exploited successfully, as well as the process working with the disclosing security researcher.
 
